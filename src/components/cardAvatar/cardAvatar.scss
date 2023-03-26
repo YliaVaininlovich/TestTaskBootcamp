@@ -1,0 +1,56 @@
+* {
+    margin: 0px;
+    padding: 0px;
+  }
+ 
+  .container-card {
+    display:flex;
+    flex-direction :column;
+    // height: 600px;
+    width: calc(25% - 90px);
+    // width: 600px;
+    background-color: rgb(238, 236, 236);
+    padding: 20px;
+    margin: 20px auto;
+    border-radius: 10px;
+    box-shadow: inset 0 0 10px 3px gray;
+    justify-content :space-between;
+    align-items: center;
+
+    .title-avatar {
+    font-weight: 500;
+    font-family: "Abril Fatface";
+    font-size: 18px;
+    margin: 15px 0px 0px 0px;
+  }
+  .img-avatar{
+    // height: 70%;
+    width: 90%;
+    margin: -35px auto auto auto;
+    box-shadow: 10px 10px 5px rgb(201, 198, 198);
+  }
+  
+  }
+
+  
+
+@media (max-width: 1112px)  {
+
+  .container-card {
+    width: calc(25% - 20px);
+  }
+}
+
+@media (max-width: 620px)  {
+
+  .container-card {
+    width: calc(30% - 20px);
+  }
+}
+
+@media (max-width: 520px)  {
+
+  .container-card {
+    width: calc(50% );
+  }
+}
