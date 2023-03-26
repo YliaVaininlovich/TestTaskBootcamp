@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/TestTaskBootcamp/static/css/main.2da3fe04.css",
+    "main.js": "/TestTaskBootcamp/static/js/main.664e517f.js",
+    "static/js/787.204b4838.chunk.js": "/TestTaskBootcamp/static/js/787.204b4838.chunk.js",
+    "static/media/no-image.png": "/TestTaskBootcamp/static/media/no-image.141911f88f4b042f9f35.png",
+    "index.html": "/TestTaskBootcamp/index.html",
+    "main.2da3fe04.css.map": "/TestTaskBootcamp/static/css/main.2da3fe04.css.map",
+    "main.664e517f.js.map": "/TestTaskBootcamp/static/js/main.664e517f.js.map",
+    "787.204b4838.chunk.js.map": "/TestTaskBootcamp/static/js/787.204b4838.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2da3fe04.css",
+    "static/js/main.664e517f.js"
+  ]
+}
